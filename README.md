@@ -12,7 +12,9 @@ It offers a unified platform where students, class representatives (CRs), teache
 The project was initially created for managing activities within my ICE batch, but it’s designed to be scalable for future departmental use.
 
 ✨ Features
+
 👨‍🎓 Student Dashboard
+
 📢 View university notices and announcements
 
 📅 Check class routines and schedules
@@ -26,6 +28,7 @@ The project was initially created for managing activities within my ICE batch, b
 💬 Live chat with Class Representatives
 
 👨‍🏫 Teacher Dashboard
+
 📊 Upload and manage student results
 
 📝 Create and assign assignments
@@ -34,6 +37,7 @@ The project was initially created for managing activities within my ICE batch, b
 
 
 👨‍💼 Class Representative (CR) Dashboard
+
 📢 Upload and manage class notices
 
 📅 Update class schedules and routines
@@ -41,6 +45,7 @@ The project was initially created for managing activities within my ICE batch, b
 💬 Communicate with students via chat
 
 🛡️ Admin Panel
+
 👥 Manage all users (Students, Teachers, CRs)
 
 📊 Overall system monitoring
@@ -48,14 +53,16 @@ The project was initially created for managing activities within my ICE batch, b
 ⚙️ Platform configuration and settings
 
 🚀 Live Demo
-🔗 Live Site: [Coming Soon]
+
+🔗 Live Site: http://iceportal.page.gd/
+
 👤 Demo Credentials:
 
-Student: student@ice.edu / password
+Student: ismitarahman@442gmail.com / 224466
 
-Teacher: teacher@ice.edu / password
+Teacher: ashik@nstu.edu.bd / 1234
 
-CR: cr@ice.edu / password
+CR: mare117@student.nstu.edu.bd /1234
 
 Admin: Separate login URL
 
@@ -69,7 +76,9 @@ Admin: Separate login URL
 
 
 🛠️ Installation
+
 Prerequisites
+
 Web server (XAMPP, WAMP, or Laragon)
 
 PHP 7.4 or higher
@@ -77,9 +86,10 @@ PHP 7.4 or higher
 MySQL 5.7 or higher
 
 1. Setup Instructions
+   
 i)Clone the repository ; git clone https://github.com/Bin-Moon/ICE-University-Portal.git
 
-2. Database Configuration
+3. Database Configuration
 
 i)Create a MySQL database named ice_portal
 
@@ -100,6 +110,7 @@ ii)Access via http://localhost/ICE-University-Portal
 📁 Project Structure: 
 
 ICE-University-Portal/
+
 ├── assets/
 │   ├── css/
 │   ├── js/
