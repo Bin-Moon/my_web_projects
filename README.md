@@ -59,7 +59,14 @@ The project was initially created for managing activities within my ICE batch, b
 
 Screenshots: 
 
-<img src="https://raw.githubusercontent.com/Bin-Moon/my_web_projects/6bedad61cf17d5e1e0b4c104ff2b6cee86b30ebc/Screenshot.jpg" alt="ICE Portal Screenshot" width="450" height="250">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Bin-Moon/my_web_projects/6bedad61cf17d5e1e0b4c104ff2b6cee86b30ebc/Screenshot.jpg" alt="ICE Portal Screenshot" width="30%">
+  <img src="https://github.com/Bin-Moon/my_web_projects/blob/43b365dcfa7242e508510ca0c87379c0656fa3ba/admindash.jpg" alt="Image 1" width="30%">
+  <img src="https://github.com/Bin-Moon/my_web_projects/blob/43b365dcfa7242e508510ca0c87379c0656fa3ba/crdash.jpg" alt="Image 2" width="30%">
+  <img src="https://github.com/Bin-Moon/my_web_projects/blob/43b365dcfa7242e508510ca0c87379c0656fa3ba/studentdash.jpg" alt="Image 3" width="30%">
+    <img src="https://github.com/Bin-Moon/my_web_projects/blob/43b365dcfa7242e508510ca0c87379c0656fa3ba/teacherdash.jpg" alt="Image 4" width="30%">
+</div>
+
 
 
 👤 Demo Credentials:
