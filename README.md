@@ -66,14 +66,6 @@ CR: mare117@student.nstu.edu.bd /1234
 
 Admin: Separate login URL
 
-📸 Screenshots: 
-
-
-
-
-
-
-
 
 🛠️ Installation
 
@@ -87,7 +79,9 @@ MySQL 5.7 or higher
 
 1. Setup Instructions
    
-i)Clone the repository ; git clone https://github.com/Bin-Moon/ICE-University-Portal.git
+i)Clone the repository ;
+
+git clone https://github.com/Bin-Moon/ICE-University-Portal.git
 
 3. Database Configuration
 
@@ -131,6 +125,7 @@ ICE-University-Portal/
 └── indexx.php
 
  Technologies Used
+ 
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 
 Backend: PHP
@@ -142,9 +137,11 @@ Server: Apache/XAMPP
 Additional Tools: Git, GitHub, Infinity free
 
 current Scope
+
 This is Version 1.0 developed as a batch-specific portal with plans for institutional expansion.
 
 🚀 Future Enhancements
+
 Mobile application development
 
 Real-time notification system
@@ -156,12 +153,15 @@ Payment integration for fees
 Multi-batch support system
 
  Acknowledgments
+ 
 Md. Sabbir Ejaj – Project Supervisor
 
 📄 License
+
 This project is licensed for academic and departmental use only.
 
 👨‍💻 Developer
+
 Moontaha Islam
 
 💼 GitHub: @Bin-Moon
@@ -169,6 +169,7 @@ Moontaha Islam
 📧 Email: moontahaislam8000@gmail.com
 
 Contributing
+
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
 ⭐ Star this repo if you find it helpful!
