@@ -59,7 +59,8 @@ The project was initially created for managing activities within my ICE batch, b
 
 Screenshots: 
 
-![image alt](https://github.com/Bin-Moon/my_web_projects/blob/6bedad61cf17d5e1e0b4c104ff2b6cee86b30ebc/Screenshot.jpg)
+<img src="https://raw.githubusercontent.com/Bin-Moon/my_web_projects/6bedad61cf17d5e1e0b4c104ff2b6cee86b30ebc/Screenshot.jpg" alt="ICE Portal Screenshot" width="450" height="250">
+
 
 👤 Demo Credentials:
 
