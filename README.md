@@ -56,6 +56,11 @@ The project was initially created for managing activities within my ICE batch, b
 
 🔗 Live Site: http://iceportal.page.gd/
 
+
+Screenshots: 
+
+![image alt](https://github.com/Bin-Moon/my_web_projects/blob/6bedad61cf17d5e1e0b4c104ff2b6cee86b30ebc/Screenshot.jpg)
+
 👤 Demo Credentials:
 
 Student: ismitarahman@442gmail.com / 224466
