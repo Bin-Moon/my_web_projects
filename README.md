@@ -116,6 +116,7 @@ ii)Access via http://localhost/ICE-University-Portal
 
 📁 Project Structure: 
 
+
 ICE-University-Portal/
 
 ├── assets/
@@ -136,6 +137,8 @@ ICE-University-Portal/
 ├── database/
 │   └── ice_portal.sql
 └── indexx.php
+
+
 
  Technologies Used
  
