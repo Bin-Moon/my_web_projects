@@ -112,7 +112,7 @@ ii)Configure server settings in config/config.php
 
 i)Move project to your web server root (e.g., htdocs)
 
-ii)Access via http://localhost/ICE-University-Portal
+ii)Access via http://localhost/WebDevelopement/index.php
 
 📁 Project Structure: 
 
